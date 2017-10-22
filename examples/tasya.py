@@ -2,7 +2,7 @@ import subprocess,re,os
 from line import LineClient, LineGroup, LineContact, LineAPI
 
 try:
-    client = LineClient("uname@email.com", "pass")
+    client = LineClient("riskihadiyanto123@gmail.com", "ikiikimochi123")
     print client.authToken
 except:
     print "Login Failed"
